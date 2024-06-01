@@ -1,11 +1,11 @@
-👋 Hi, I'm Hamza Ahmed!
-🎓 Computer Science undergraduate passionate about technology and innovation.
-💻 Currently a Developer Intern at ibexoft technologies, gaining hands-on experience in the industry.
-🌟 Interested in software development and Data Science, always eager to learn and explore new trends in the fields.
-🤝 Open for collaborations on exciting projects.
-📫 Connect with me:
-      LinkedIn: [https://www.linkedin.com/in/hamzabham/]
-      Email: [mailto:alihamzabham@gmail.com]
+👋 Hi, I'm Hamza Ahmed!  
+🎓 Computer Science undergraduate passionate about technology and innovation.  
+💻 Currently a Developer Intern at ibexoft technologies, gaining hands-on experience in the industry.  
+🌟 Interested in software development and Data Science, always eager to learn and explore new trends in the fields.  
+🤝 Open for collaborations on exciting projects.  
+📫 Connect with me:  
+&nbsp;&nbsp;&nbsp;&nbsp;LinkedIn: [https://www.linkedin.com/in/hamzabham/](https://www.linkedin.com/in/hamzabham/)  
+&nbsp;&nbsp;&nbsp;&nbsp;Email: [alihamzabham@gmail.com](mailto:alihamzabham@gmail.com)
 
 
 <!--
