@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Hamza Ahmed!  
-- 🎓 Computer Science undergraduate passionate about technology and innovation.  
+- 🎓 Computer Science undergraduate, passionate about technology and innovation.  
 - 💻 Currently a Developer Intern at ibexoft technologies, gaining hands-on experience in the industry.  
 - 🌟 Interested in software development and Data Science, always eager to learn and explore new trends in the fields.  
 - 🤝 Open for collaborations on exciting projects.  
